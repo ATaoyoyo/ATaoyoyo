@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Photography or games...
 -->
 
-## 👨‍💻about me
+## 👨‍💻About me
 - 🔭 I’m currently working on Front-end Developer.
 - 🌱 I’m currently learning **TypeScript** and **React**.
 - 🤔 I’m looking for help with **Front end Engineering Technology**.
 - 📫 How to reach me: **[📫Email](ataoyoyo@foxmail.com)**
 - ⚡ Fun fact: 📷Photography or 🎮games...
 
-## 💻languages
+## 💻Languages
 <a href="https://github.com/ATaoyoyo/">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATaoyoyo&layout=compact&count_private=true" />
 </a>
