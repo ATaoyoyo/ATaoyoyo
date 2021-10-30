@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Front-end Developer.
 - 🌱 I’m currently learning **TypeScript** and **React**.
 - 🤔 I’m looking for help with **Front end Engineering Technology**.
-- 📫 How to reach me: **[📫Email](ataoyoyo@foxmail.com)**
+- 📫 How to reach me: **📫Email：ataoyoyo@foxmail.com**
 - ⚡ Fun fact: 📷Photography or 🎮games...
 
 ## 💻Languages
